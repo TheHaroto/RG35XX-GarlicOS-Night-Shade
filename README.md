@@ -2,7 +2,13 @@
 A darker atmospheric theme designed for use on the Anbernic RG35XX using GarlicOS!
 *****************************************************************
 
+Night Shade v1: This is the original theme, with a more creative font type:
+
 ![Nightshade Showcase](https://user-images.githubusercontent.com/131164472/233907080-757b45d4-de87-4f50-8b74-af5b4d32bfb7.gif)
+
+Night Shade v2: This is a new version of the theme, with a cleaner font type:
+
+![Night Shade v2](https://user-images.githubusercontent.com/131164472/234029299-cb2ea676-eb5a-49d3-a265-e0d5e885776c.gif)
 
 Note: Currently only the English file is compatible with this theme, the other languages will be added shortly.
 
