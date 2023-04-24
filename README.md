@@ -4,6 +4,8 @@ A darker atmospheric theme designed for use on the Anbernic RG35XX using GarlicO
 
 ![Nightshade Showcase](https://user-images.githubusercontent.com/131164472/233907080-757b45d4-de87-4f50-8b74-af5b4d32bfb7.gif)
 
+Note: Currently only the English file is compatible with this theme, the other languages will be added shortly.
+
 *****************************************************************
 
 Download the .7z files and extract them for the theme files
